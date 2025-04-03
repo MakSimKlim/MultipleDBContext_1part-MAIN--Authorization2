@@ -1,0 +1,15 @@
+!20Krokozyabola25 - для всех остальных:
+mamkinhackermail@internet.ru - Basic
+sasha@masha.com - Basic
+ivanivanov@google.com - Inactive
+pasha@vasha.com - Inactive
+misha@mavashi.ru - Admin
+
+123Pa$$word. это для суперадмина (ContextSeed.cs)
+UserRoles и RoleManager
+83maxomus@mail.ru
+
+
+Стокгольм (Швеция)
+Введите "83.219.243.166" в поле "Host Name" и нажмите Open
+Введите логин: "root" и пароль: 87hi0VWLAobYDt
